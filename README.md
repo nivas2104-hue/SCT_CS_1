@@ -17,39 +17,23 @@ A simple **Caesar Cipher** program in Python that allows you to **encrypt** and 
    ```bash
    python cc.py
 
-
 Follow the prompts:
-
 Choose encrypt or decrypt.
-
 Enter your message.
-
 Enter a shift value (integer).
-
 After processing, you can choose to continue or exit.
 
-Example
-
-Encrypt:
 
 encrypt
 Enter your message: Hello World!
 Enter shift value: 3
 Encrypted message: Khoor Zruog!
 
-
-Decrypt:
-
 decrypt
 Enter your message: Khoor Zruog!
 Enter shift value: 3
 Decrypted message: Hello World!
 
-File Structure
+
 cc.py       # Main Python program
 README.md   # Project description and instructions
-
-Author
-
-Nivas B.U.
-
